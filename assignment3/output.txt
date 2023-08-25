@@ -1,0 +1,15 @@
+Name: Finland
+Capital: Helsinki
+Population: 5530719
+Languages: Finnish, Swedish
+ 
+Name: Vietnam
+Capital: Hanoi
+Population: 97338583
+Languages: Vietnamese
+ 
+Name: South Africa
+Capital: Pretoria, Bloemfontein, Cape Town
+Population: 59308690
+Languages: Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu
+ 
