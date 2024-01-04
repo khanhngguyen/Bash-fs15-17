@@ -14,4 +14,4 @@ fi
 
 # example
 # ./script.sh --> should echo "please provide component name(s) as argument"
-# ./scriot.sh Grid Paper --> should echo component name with its count of use
+# ./script.sh Grid Paper --> should echo component name with its count of use

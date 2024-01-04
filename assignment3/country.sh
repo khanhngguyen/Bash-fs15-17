@@ -22,6 +22,6 @@ else
 fi
 
 # example
-# ./script --> should echo "please provide name (or names) of country as argument(s)"
+# ./contry.sh --> should echo "please provide name (or names) of country as argument(s)"
 # ./country.sh finland vietnam --> should print out information for each country
 # ./country.sh "finland" "vietnam" "south africa" --> if country name has multiple words, put name in double quotes
